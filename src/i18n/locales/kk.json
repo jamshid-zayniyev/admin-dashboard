@@ -1,0 +1,99 @@
+{
+  "common": {
+    "cancel": "Болдырмау",
+    "save": "Сақтау",
+    "edit": "Өңдеу",
+    "delete": "Жою",
+    "loading": "Өңделуде...",
+    "confirmDelete": "Сіз шынымен жойғыңыз келе ме?",
+    "close": "Жабу"
+  },
+  "auth": {
+    "login": "Кіру",
+    "loginTitle": "Әкімші панелі",
+    "loginSubtitle": "Аккаунтыңызға кіріңіз",
+    "email": "Электрондық пошта",
+    "password": "Құпия сөз"
+  },
+  "dashboard": {
+    "title": "Әкімші панелі",
+    "welcome": "Әкімші панеліне қош келдіңіз",
+    "welcomeSubtitle": "Бұл сіздің қолданбаңызды басқаруға арналған орталық хаб. Әртүрлі бөлімдерге кіру үшін навигация мәзірін пайдаланыңыз.",
+    "home": "Басты бет",
+    "products": "Тауарлар",
+    "admins": "Әкімшілер",
+    "logout": "Шығу"
+  },
+  "stats": {
+    "totalProducts": "Барлық тауарлар",
+    "totalAdmins": "Барлық әкімшілер",
+    "currentTime": "Ағымдағы уақыт",
+    "todaysDate": "Бүгінгі күн"
+  },
+  "products": {
+    "title": "Тауарлар",
+    "addProduct": "Тауар қосу",
+    "editProduct": "Тауарды өңдеу",
+    "category": "Санат",
+    "name": "Тауар атауы",
+    "price": "Баға",
+    "image": "Тауар суреті",
+    "description": "Сипаттама",
+    "selectCategory": "Опцияны таңдаңыз",
+    "enterName": "Тауар атауын енгізіңіз",
+    "enterDescription": "Тауар сипаттамасын енгізіңіз",
+    "confirmDelete": "Сіз шынымен осы тауарды жойғыңыз келе ме?",
+    "material": "Материал",
+    "code": "Тауар коды",
+    "title": "Тақырып",
+    "size": "Өлшемі (см)",
+    "discountPercent": "Жеңілдік (%)",
+    "discountPrice": "Жеңілдікпен баға",
+    "mainImage": "Негізгі сурет",
+    "additionalImages": "Қосымша суреттер",
+    "enterCode": "Тауар кодын енгізіңіз",
+    "categories": {
+      "electronics": "Электроника",
+      "clothing": "Киім",
+      "books": "Кітаптар",
+      "home": "Үй және бақша",
+      "furniture": "Жиһаз"
+    },
+    "materials": {
+      "wood": "Ағаш",
+      "metal": "Металл",
+      "plastic": "Пластик",
+      "fabric": "Мата",
+      "leather": "Тері",
+      "glass": "Шыны"
+    },
+    "names": {
+      "chair": "Орындық",
+      "table": "Үстел",
+      "sofa": "Диван",
+      "bed": "Төсек",
+      "cabinet": "Шкаф"
+    },
+    "titles": {
+      "comfortable": "Жайлы",
+      "modern": "Заманауи",
+      "classic": "Классикалық",
+      "elegant": "Элегантты",
+      "stylish": "Стильді"
+    }
+  },
+  "admins": {
+    "title": "Әкімшілер",
+    "addAdmin": "Әкімші қосу",
+    "editAdmin": "Әкімшіні өңдеу",
+    "username": "Пайдаланушы аты",
+    "password": "Құпия сөз",
+    "profilePicture": "Профиль суреті",
+    "enterUsername": "Пайдаланушы атын енгізіңіз",
+    "enterPassword": "Құпия сөзді енгізіңіз",
+    "confirmDelete": "Сіз шынымен осы әкімшіні жойғыңыз келе ме?"
+  },
+  "forms": {
+    "uploadImage": "Суретті жүктеу үшін басыңыз"
+  }
+}

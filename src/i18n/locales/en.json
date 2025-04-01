@@ -1,0 +1,99 @@
+{
+  "common": {
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "loading": "Processing...",
+    "confirmDelete": "Are you sure you want to delete this?",
+    "close": "Close"
+  },
+  "auth": {
+    "login": "Sign in",
+    "loginTitle": "Admin Dashboard",
+    "loginSubtitle": "Sign in to your account",
+    "email": "Email address",
+    "password": "Password"
+  },
+  "dashboard": {
+    "title": "Admin Panel",
+    "welcome": "Welcome to the Admin Dashboard",
+    "welcomeSubtitle": "This is your central hub for managing your application. Use the navigation menu to access different sections.",
+    "home": "Home",
+    "products": "Products",
+    "admins": "Admins",
+    "logout": "Logout"
+  },
+  "stats": {
+    "totalProducts": "Total Products",
+    "totalAdmins": "Total Admins",
+    "currentTime": "Current Time",
+    "todaysDate": "Today's Date"
+  },
+  "products": {
+    "title": "Products",
+    "addProduct": "Add Product",
+    "editProduct": "Edit Product",
+    "category": "Category",
+    "name": "Product Name",
+    "price": "Price",
+    "image": "Product Image",
+    "description": "Description",
+    "selectCategory": "Select an option",
+    "enterName": "Enter product name",
+    "enterDescription": "Enter product description",
+    "confirmDelete": "Are you sure you want to delete this product?",
+    "material": "Material",
+    "code": "Product Code",
+    "title": "Title",
+    "size": "Size (cm)",
+    "discountPercent": "Discount (%)",
+    "discountPrice": "Discounted Price",
+    "mainImage": "Main Image",
+    "additionalImages": "Additional Images",
+    "enterCode": "Enter product code",
+    "categories": {
+      "electronics": "Electronics",
+      "clothing": "Clothing",
+      "books": "Books",
+      "home": "Home & Garden",
+      "furniture": "Furniture"
+    },
+    "materials": {
+      "wood": "Wood",
+      "metal": "Metal",
+      "plastic": "Plastic",
+      "fabric": "Fabric",
+      "leather": "Leather",
+      "glass": "Glass"
+    },
+    "names": {
+      "chair": "Chair",
+      "table": "Table",
+      "sofa": "Sofa",
+      "bed": "Bed",
+      "cabinet": "Cabinet"
+    },
+    "titles": {
+      "comfortable": "Comfortable",
+      "modern": "Modern",
+      "classic": "Classic",
+      "elegant": "Elegant",
+      "stylish": "Stylish"
+    }
+  },
+  "admins": {
+    "title": "Admins",
+    "addAdmin": "Add Admin",
+    "editAdmin": "Edit Admin",
+    "username": "Username",
+    "password": "Password",
+    "profilePicture": "Profile Picture",
+    "enterUsername": "Enter username",
+    "enterPassword": "Enter password",
+    "confirmDelete": "Are you sure you want to delete this admin?"
+  },
+  "forms": {
+    "uploadImage": "Click to upload image"
+  }
+}
