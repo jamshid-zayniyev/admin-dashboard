@@ -25,7 +25,9 @@ VITE_USE_MOCK_API=false
 ```
 <p>3. Start the app</p>
 
-```npm run dev```
+```
+npm run dev
+```
 
   
   
