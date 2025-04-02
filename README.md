@@ -12,17 +12,20 @@
 
 <p>1. Install packages</p>
 
-```sh
+```
 npm install
+```
 
 
 <p>2. Setup .env file</p>
+
+```
 VITE_API_URL=YOUR_BACKEND_API_URL
 VITE_USE_MOCK_API=false
-
+```
 <p>3. Start the app</p>
 
-`npm run dev`
+```npm run dev```
 
   
   
