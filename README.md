@@ -38,3 +38,4 @@ Technologies used in the project:
 *   ReactJs
 *   Vite
 *   Redux-toolkit
+*   Tailwind
