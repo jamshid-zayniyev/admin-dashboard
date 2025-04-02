@@ -12,7 +12,9 @@
 
 <p>1. Install packages</p>
 
-`npm install`
+```sh
+npm install
+
 
 <p>2. Setup .env file</p>
 VITE_API_URL=YOUR_BACKEND_API_URL
