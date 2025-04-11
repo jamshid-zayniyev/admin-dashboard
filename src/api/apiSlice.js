@@ -8,7 +8,12 @@ const baseUrl = import.meta.env.VITE_API_URL || 'YOUR_BACKEND_API_URL';
 // Create a custom base query that uses mock data in development
 const customBaseQuery = async (args, api, extraOptions) => {
   // Check if we're in development mode and should use mock data
-  const useMockApi = import.meta.env.DEV && import.meta.env.VITE_USE_MOCK_API === 'true';
+
+  // open this when you use for real project
+  // const useMockApi = import.meta.env.DEV && import.meta.env.VITE_USE_MOCK_API === 'true';
+
+  // remove this when you use for real project
+  const useMockApi = true;
   
   if (useMockApi) {
     try {
